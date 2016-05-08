@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppAula3</string>
+    <string name="hello_world" />
 </resources>
